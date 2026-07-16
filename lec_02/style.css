@@ -1,0 +1,87 @@
+body{
+    background-color: black;
+}
+
+.container1{
+    text-align: center;
+    float: left;
+    color: white;
+    margin: 50px;
+    padding: 40px;
+    border-radius: 10px;
+    border: 50px dotted blue;
+    text-size: 40px;
+    height: 50%;
+    width: 20%;
+}
+
+
+.container2{
+    text-align: center;
+    float: right;
+    color: white;
+    margin: 50px;
+    padding: 40px;
+    border-radius: 10px;
+    border: 50px dotted red;
+    text-size: 40px;
+    height: 30%;
+    width: 20%;
+}
+
+
+.container3{
+    text-align: center;
+    float: left;
+    color: white;
+    margin: 50px;
+    padding: 40px;
+    border-radius: 10px;
+    border: 50px dotted green;
+    text-size: 40px;
+    height: 30%;
+    width: 20%;
+}
+
+
+
+.container4{
+    text-align: center;
+    float: right;
+    color: white;
+    margin: 50px;
+    padding: 40px;
+    border-radius: 10px;
+    border: 50px dotted yellow; ;
+    text-size: 40px;
+    height: 30%;
+    width: 20%;
+}
+
+
+
+#first{
+    font-family: "Black Ops One", cursive;
+    color:cornflowerblue;
+    text-transform: uppercase;
+
+}
+
+#second{
+    font-family: "Lora", serif;
+    color:crimson;
+    text-transform: capitalize;
+}
+
+
+#three{
+    font-family: "Playfair Display", serif;
+    color:gold;
+    text-transform: Uppercase;
+}
+
+#four{
+    font-family: "Playwrite NZ", sans-serif;
+    color:lightgreen;
+    text-transform: capitalize;
+}
