@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+
+
+.Header{
+   text-align: center;
+   color:cadetblue;
+   text-decoration: underline;
+   font-size: 50px;
+}
+
+
+#Header2{
+    text-align: center;
+    color:crimson;
+    text-decoration: underline;
+    font-size: 36px;
+}
+
+
+.p{
+    text-align: center;
+    color: white;
+    font-family: "Montenegrin Gothic One", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.img{
+    text-align: center;
+    border-radius: 50%;
+}
